@@ -1,23 +1,29 @@
 ## Hi there 👋
 
-I'm Munal Baraili, data engineer based in Australia. 
+I'm Munal Baraili, a data engineering student based in Australia.
 
-I build projects that gives me ahaa!! moments. 
+I build projects that give me *aha!* moments — usually when something breaks, scales poorly, or behaves differently than expected.
 
-I can't stop project ideas popping into my head, they come to be in very random moments. 
+I constantly explore ideas (often at random moments), prototype them, and turn the best ones into structured projects. Some are finished, many are experiments — all are learning-driven.
 
-I am mostly familiar with Python, ML, SQL, AWS, Docker and Spark.
+I work mainly with:
+**Python, SQL, Spark, AWS, Docker**, and applied **machine learning**.
 
-I've got bunch of finished projects, more unfinished projects in my private repo. 
+I’m especially interested in:
+- data pipelines & system design
+- performance trade-offs
+- turning messy data into reliable systems
 
-If you want to connect feel free to send me a dm. 
+Most of my polished work is public, while ongoing experiments live in private repos.
 
-Fun Facts:
+If you’re into data engineering, system thinking, or building things that *actually run*, feel free to connect.
 
-- I love exploring random topic and mastering it in much as can in 2 weeks rule.
-- I love stealing from those who have already mastered it.
-- I have started rock climbing.
-- I love designing and drawing.
+### Fun facts
+- I deep-dive into new topics using a personal “2-week mastery” rule
+- I learn fast by studying people who’ve already solved the problem
+- I recently started rock climbing
+- I enjoy design, sketching, and visual thinking
+
 <!--
 **AXBOUF/AXBOUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
