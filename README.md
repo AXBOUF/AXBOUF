@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Munal Baraili, a data engineer based in Australia. 
+
 I build projects that gives me ahaa!! moments. 
 
 I can't stop project ideas popping into my head, they come to be in very random moments. 
@@ -13,7 +14,10 @@ If you want to connect feel free to send me a dm.
 
 Fun Facts:
 
-- 
+- I love exploring random topic and mastering it in much as can in 2 weeks rule.
+- I love sharing knowledge i have and stealing from those who have already mastered it.
+- I have started rock climbing.
+- I love designing and drawing.
 <!--
 **AXBOUF/AXBOUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
