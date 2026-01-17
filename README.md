@@ -6,7 +6,7 @@ I build projects that gives me ahaa!! moments.
 
 I can't stop project ideas popping into my head, they come to be in very random moments. 
 
-I am mostly familiar with Python, ML, SQL, AWS and Spark. I also spent extra time doing creative stuff and currently started Rock climbing. 
+I am mostly familiar with Python, ML, SQL, AWS, Docker and Spark.
 
 I've got bunch of finished projects, more unfinished projects in my private repo. 
 
