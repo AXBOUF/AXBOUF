@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Munal Baraili, a data engineer based in Australia. 
+I'm Munal Baraili, data engineer based in Australia. 
 
 I build projects that gives me ahaa!! moments. 
 
