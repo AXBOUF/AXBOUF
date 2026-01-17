@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I'm Munal Baraili, a data engineer based in Australia. 
+I build projects that gives me ahaa!! moments. 
+
+I can't stop project ideas popping into my head, they come to be in very random moments. 
+
+I am mostly familiar with Python, ML, SQL, AWS and Spark. I also spent extra time doing creative stuff and currently started Rock climbing. 
+
+I've got bunch of finished projects, more unfinished projects in my private repo. 
+
+If you want to connect feel free to send me a dm. 
+
+Fun Facts:
+
+- 
 <!--
 **AXBOUF/AXBOUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
