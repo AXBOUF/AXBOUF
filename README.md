@@ -15,7 +15,7 @@ If you want to connect feel free to send me a dm.
 Fun Facts:
 
 - I love exploring random topic and mastering it in much as can in 2 weeks rule.
-- I love sharing knowledge i have and stealing from those who have already mastered it.
+- I love stealing from those who have already mastered it.
 - I have started rock climbing.
 - I love designing and drawing.
 <!--
