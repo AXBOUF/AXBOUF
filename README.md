@@ -2,9 +2,9 @@
 
 I'm Munal Baraili, a data engineering student based in Australia.
 
-I build projects that give me *aha!* moments — usually when something breaks, scales poorly, or behaves differently than expected.
+I build projects that give me *aha!* moments usually when something breaks, scales poorly, or behaves differently than expected.
 
-I constantly explore ideas (often at random moments), prototype them, and turn the best ones into structured projects. Some are finished, many are experiments — all are learning-driven.
+I constantly explore ideas (often at random moments), prototype them, and turn the best ones into structured projects. Some are finished, many are experiments all are learning-driven.
 
 I work mainly with:
 **Python, SQL, Spark, AWS, Docker**, and applied **machine learning**.
